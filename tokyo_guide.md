@@ -10,28 +10,28 @@
 | Sushi | Uobei Shibuya Dogenzaka | Shibuya | 4.2 | 1,000+ | No | https://www.google.com/maps/search/?api=1&query=Uobei+Shibuya+Dogenzaka | Outside peak lunch/dinner hours, or later in the evening. |
 | Sushi | Sushizanmai Tsukijiekimae-Ten | Tsukiji | 4.4 | 956+ | Yes | https://www.google.com/maps/search/?api=1&query=%E3%81%99%E3%81%97%E3%81%BE%E3%81%84+%E7%AF%89%E5%9C%B0%E9%A7%85%E5%89%8D%E5%BA%97 | Open 24 hours. Early morning or late night to avoid long lines. |
 | Donburi | Tsujihan (Nihonbashi) | Nihonbashi | 4.4 | 3,400+ | No | https://www.google.com/maps/search/?api=1&query=Tsujihan+Nihonbashi | Arrive 15-30 mins before 11 AM opening, or after 2 PM. |
-| Donburi | RedRock (Harajuku) | Harajuku | 4.2 | 500+ | Varies | https://www.google.com/maps/search/?api=1&query=RedRock+Harajuku | Arrive 10-15 mins before 11:30 AM opening, or weekday afternoons. |
+| Donburi | RedRock (Harajuku) | Harajuku | 4.2 | 500+ | Yes | https://www.google.com/maps/search/?api=1&query=RedRock+Harajuku | Arrive 10-15 mins before 11:30 AM opening, or weekday afternoons. |
 | Yakiniku | Yoroniku | Minami Aoyama | 4.5 | 2,700+ (Tabelog) | Varies (call ahead) | https://www.google.com/maps/search/Yoroniku+Minami+Aoyama+6-6-22+Minato-ku,+Tokyo | Reservations essential, often months in advance. Open evenings. |
 | Yakiniku | Rokkasen | Shinjuku | 4.5 | 1,572+ | Yes | https://www.google.com/maps/search/Rokkasen+Shinjuku+1-10-2+Nishi-Shinjuku,+Shinjuku-ku,+Tokyo | Late lunch or early dinner. Reservations highly recommended. |
 | Sukiyaki | Asakusa Imahan Kokusai Dori Honten | Asakusa | 4.4 | 5,000+ | Yes | https://www.google.com/maps/search/Asakusa+Imahan+Kokusai+Dori+Honten+3-1-12+Nishi-Asakusa,+Taito-ku,+Tokyo | Lunch: arrive well before 11:30 AM opening. Dinner: reservations recommended. |
 | Sukiyaki | Ningyocho Imahan Ningyocho Honten | Ningyocho | 4.4 | 3,000+ | Yes | https://www.google.com/maps/search/?api=1&query=Ningyocho+Imahan+Ningyocho+Honten+2-9-12+Nihonbashiningyocho,+Chuo+City,+Tokyo+103-0013 | Reservations highly recommended. Early lunch (11 AM) or late dinner (after 8 PM) on weekdays. |
 | Shabu Shabu | MO-MO-PARADISE Kabukicho | Shinjuku | 4.4 | 1,000+ | Yes | https://www.google.com/maps/search/?api=1&query=MO-MO-PARADISE+Kabukicho | Weekday evenings, or weekend lunch. Reservations recommended. |
 | Shabu Shabu | Nabezo Shibuya Koendori | Shibuya | 4.4 | 1,000+ | Yes | https://www.google.com/maps/search/150-0042+20-15+Udagawacho,+Shibuya-ku,+Tokyo | Reservations recommended, especially during peak hours. Arrive early for dinner. |
-| Sashimi | Kyubey Ginza Honten | Ginza | 4.4 | 906+ | Varies (call ahead) | https://www.google.com/maps/search/?api=1&query=Kyubey+Ginza+Honten | Reservations essential, often through concierge. Lunch: 11:30 AM seating. Dinner: 5-10 PM. Closed Mon/Sun. |
+| Sashimi | Kyubey Ginza Honten | Ginza | 4.4 | 906+ | No | https://www.google.com/maps/search/?api=1&query=Kyubey+Ginza+Honten | Reservations essential, often through concierge. Lunch: 11:30 AM seating. Dinner: 5-10 PM. Closed Mon/Sun. |
 | Sashimi | Sushizanmai Tsukijiekimae-Ten | Tsukiji | 4.4 | 956+ | Yes | https://www.google.com/maps/search/?api=1&query=%E3%81%99%E3%81%97%E3%81%BE%E3%81%84+%E7%AF%89%E5%9C%B0%E9%A7%85%E5%89%8D%E5%BA%97 | Open 24 hours. Early morning or late night to avoid long lines. |
 | Kaisendon | Tsujihan (Nihonbashi) | Nihonbashi | 4.4 | 3,400+ | No | https://www.google.com/maps/search/?api=1&query=Tsujihan+Nihonbashi | Arrive 15-30 mins before 11 AM opening, or after 2 PM. |
 | Takoyaki | Gindaco Highball Sakaba (Shinjuku) | Shinjuku | 4.0 | 500+ | No | https://www.google.com/maps/search/?api=1&query=Gindaco+Highball+Sakaba+Shinjuku | Earlier in the day (11-11:30 AM) for less crowded. Evenings are lively. |
 | Kaiseki | Tokyo Shiba Tofuya Ukai | Shiba | 4.5 | 2,894+ | Yes | https://www.google.com/maps/search/?api=1&query=Tokyo+Shiba+Tofuya+Ukai+4-4-13+Shibakoen,+Minato-ku,+Tokyo | Weekday lunch for quieter experience and garden views. Dinner for illuminated garden. Reservations essential. |
-| Japanese | Japanese Food Wagyu Restaurant (Halal) | Ginza | 4.8 | 146+ | Varies | https://www.google.com/maps/search/?api=1&query=Japanese+Food+Wagyu+Restaurant+Halal+Ginza | N/A |
-| Teppanyaki | Teppanyaki Sumiyaki Saito | N/A | 4.9 | N/A | Varies | https://www.google.com/maps/search/?api=1&query=Teppanyaki+Sumiyaki+Saito | N/A |
-| Sushi | SUSHI-YAMA Shinjuku | Shinjuku | 4.9 | 201+ | Varies | https://www.google.com/maps/search/?api=1&query=SUSHI-YAMA+Shinjuku | N/A |
-| Chanko Nabe | Chanko & Wanko Restaurant Asakusa Sumo Club | Asakusa | 4.9 | N/A | Yes | https://www.google.com/maps/search/?api=1&query=Chanko+%26+Wanko+Restaurant+Asakusa+Sumo+Club | N/A |
+| Japanese | Japanese Food Wagyu Restaurant (Halal) | Ginza | 4.8 | 146+ | Yes | https://www.google.com/maps/search/?api=1&query=Japanese+Food+Wagyu+Restaurant+Halal+Ginza | Daily, 11:00-23:00 (Last order 22:45) |
+| Teppanyaki | Teppanyaki Sumiyaki Saito | Roppongi | 4.9 | N/A | Varies (contact directly) | https://www.google.com/maps/search/?api=1&query=Teppanyaki+Sumiyaki+Saito | Evenings (for special occasions) |
+| Sushi | SUSHI-YAMA Shinjuku | Shinjuku | 4.9 | 201+ | Varies (contact directly) | https://www.google.com/maps/search/?api=1&query=SUSHI-YAMA+Shinjuku | N/A |
+| Chanko Nabe | Chanko & Wanko Restaurant Asakusa Sumo Club | Asakusa | 4.9 | N/A | Yes | https://www.google.com/maps/search/?api=1&query=Chanko+%26+Wanko+Restaurant+Asakusa+Sumo+Club | Daily, 12:00-20:00 (check showtimes and reserve in advance) |
 
 ## Desserts
 
 | Category | Restaurant Name | Area | Rating | Number of Reviews | Are infants accepted | Google Map Link | Best Time to Visit |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Parfait | Ginza Sembikiya | Ginza | 4.1 | 1,000+ | Varies (call ahead) | https://www.google.com/maps/place/Ginza+Sembikiya+Main+Store/@35.672438,139.76325,15z/data=!4m2!3m1!1s0x0:0x53b1897a5de331f?sa=X&ved=1t:2428&ictx=111 | Weekdays, outside peak hours. |
+| Parfait | Ginza Sembikiya | Ginza | 4.1 | 1,000+ | Yes | https://www.google.com/maps/place/Ginza+Sembikiya+Main+Store/@35.672438,139.76325,15z/data=!4m2!3m1!1s0x0:0x53b1897a5de331f?sa=X&ved=1t:2428&ictx=111 | Weekdays, outside peak hours. |
 | Parfait | Shinjuku Takano Fruit Parlour | Shinjuku | 4.1 | 2,000+ | Yes | https://www.google.com/maps/search/Takano+Fruits+Parlor+Shinjuku+Main+Store | Weekdays, outside peak hours. |
 | Parfait | Patisserie Asako Iwayanagi | Setagaya | 4.3 | 1,000+ | No | https://www.google.com/maps/place/PÂTISSERIE+ASAKO+IWAYANAGI/@35.6133389,139.6533217,15z/data=!4m2!3m1!1s0x0:0x3b3c2b48a4381c4c?sa=X&ved=2ahUKEwi_yP6H-p_7AhW_UN4KHb1eB4kQ_BJ6BAh7EAg | Weekdays, reservations recommended. |
 | Parfait | EMME | Shibuya | 4.5 | 300+ | No | https://www.google.com/maps/place/EMME/data=!4m6!3m5!1s0x60188b605399e62d:0x231de436e320c97c!8m2!3d35.662413!4d139.708244!16s%2Fg%2F11h_43ftc3?hl=en&source=lnms | Evenings, it's a wine bar as well. |
@@ -39,29 +39,29 @@
 | Parfait | Parfaiteria Bel (Shinjuku) | Shinjuku | 4.3 | 500+ | No | https://www.google.com/maps/search/?api=1&query=Parfaiteria+Bel+Shinjuku | Late evening, it's a night parfait place. |
 | Matcha Parfait | Kyo Hayashiya (Takashimaya Times Square) | Shinjuku | 4.2 | 1,000+ | Yes | https://www.google.com/maps/place/Kyo+Hayashiya+Takashimaya+Timezusukuea+Ten/@35.688831,139.7036,17z/data=!4m6!3m5!1s0x60188cda8b155555:0x50184432ae29f34!8m2!3d35.688831!4d139.7036!16s/g/1td651gq?hl=en | Weekdays, outside peak hours. |
 | Matcha Parfait | Ochobohan (Lumine Est) | Shinjuku | 4.0 | 500+ | Yes | https://www.google.com/maps/search/?api=1&query=Ochobohan%20Lumine%20Est%20Shinjuku | Weekdays, outside peak hours. |
-| Matcha Parfait | Hibiya Hayashiyashinbē | Hibiya | 4.2 | 300+ | Varies (call ahead) | https://www.google.com/maps/search/%E6%97%A5%E6%AF%94%E8%B0%B7+%E6%9E%97%E5%B1%8B%E6%96%B0%E5%85%B5%E8%A1%9B | Weekdays, outside peak hours. |
+| Matcha Parfait | Hibiya Hayashiyashinbē | Hibiya | 4.2 | 300+ | Yes | https://www.google.com/maps/search/%E6%97%A5%E6%AF%94%E8%B0%B7+%E6%9E%97%E5%B1%8B%E6%96%B0%E5%85%B5%E8%A1%9B | Weekdays, outside peak hours. |
 | Japanese Desserts | Yusoshi Chano-ma (Ueno) | Ueno | 4.1 | 1,000+ | Yes (recommended for mothers with young children) | https://www.google.com/maps/place/chano-ma+Ueno/@35.709939,139.77732,17z/data=!4m6!3m5!1s0x60188fa15972697b:0x433753832a3c699b!8m2!3d35.709939!4d139.77732!16s%2Fg%2F11b6x_y_j_?hl=en | Weekdays, outside peak hours. |
-| Cafe | mipig cafe Harajuku | Harajuku | 4.8 | 1,164+ | Varies | https://www.google.com/maps/search/?api=1&query=mipig+cafe+Harajuku | N/A |
-| Cafe | Age.3 Ginza | Ginza | 4.8 | N/A | Varies | https://www.google.com/maps/search/?api=1&query=Age.3+Ginza | N/A |
-| Cafe | Mipig Cafe Harajuku Takeshitadori | Harajuku | 4.9 | N/A | Varies | https://www.google.com/maps/search/?api=1&query=Mipig+Cafe+Harajuku+Takeshitadori | N/A |
-| Cafe | Saryo Hanazomukashino Caffe Hana | N/A | 4.9 | N/A | Varies | https://www.google.com/maps/search/?api=1&query=Saryo+Hanazomukashino+Caffe+Hana | N/A |
-| Cafe | Pignic Cafe Asakusa | Asakusa | 5.0 | N/A | Varies | https://www.google.com/maps/search/?api=1&query=Pignic+Cafe+Asakusa | N/A |
-| Cream Puffs | Shiro-Hige's Cream Puff Factory Daita | Daita | 4.5 | N/A | Varies | https://www.google.com/maps/search/?api=1&query=Shiro-Hige's+Cream+Puff+Factory+Daita | N/A |
-| Pancakes | Shiawase no Pancake (A Happy Pancake) | Various | 4.2 | N/A | Varies | https://www.google.com/maps/search/?api=1&query=Shiawase+no+Pancake+Tokyo | N/A |
-| Matcha Gelato | Nanaya Aoyama | Aoyama | 4.5 | N/A | Varies | https://www.google.com/maps/search/?api=1&query=Nanaya+Aoyama | N/A |
-| Tea House/Parfaits | Saryo Tsujiri Daimaru | Tokyo Station | 4.5 | N/A | Varies | https://www.google.com/maps/search/?api=1&query=Saryo+Tsujiri+Daimaru | N/A |
-| Fruit Parfaits | Sembikiya | Ginza | 4.5 | N/A | Varies | https://www.google.com/maps/search/?api=1&query=Sembikiya+Ginza | N/A |
-| Ice Cream/Parfaits | GLACIEL Omotesando | Omotesando | 4.5 | N/A | Varies | https://www.google.com/maps/search/?api=1&query=GLACIEL+Omotesando | N/A |
-| Candied Apples | Pomme d'AMOUR | N/A | 4.5 | N/A | Varies | https://www.google.com/maps/search/?api=1&query=Pomme+d%27AMOUR+Tokyo | N/A |
-| Tarts | Am Stram Gram | Ebisu | 4.5 | N/A | Varies | https://www.google.com/maps/search/?api=1&query=Am+Stram+Gram+Ebisu | N/A |
-| Patisserie | Ease | Nihonbashi | 4.5 | N/A | Varies | https://www.google.com/maps/search/?api=1&query=Ease+Nihonbashi | N/A |
-| Taiyaki | Naruto Taiyaki Asakusa | Asakusa | 4.5 | N/A | Varies | https://www.google.com/maps/search/?api=1&query=Naruto+Taiyaki+Asakusa | N/A |
-| Wagashi | HIGASHIYA Ginza | Ginza | 4.5 | N/A | Varies | https://www.google.com/maps/search/?api=1&query=HIGASHIYA+Ginza | N/A |
+| Cafe | mipig cafe Harajuku | Harajuku | 4.8 | 1,164+ | Yes | https://www.google.com/maps/search/?api=1&query=mipig+cafe+Harajuku | Book in advance; weekdays or first session in the morning for less crowds. |
+| Cafe | Age.3 Ginza | Ginza | 4.8 | N/A | Yes | https://www.google.com/maps/search/?api=1&query=Age.3+Ginza | Weekdays, arrive before opening (around 10:25-10:50 AM) to avoid long queues. Closed Mondays. |
+| Cafe | Mipig Cafe Harajuku Takeshitadori | Harajuku | 4.9 | N/A | Yes | https://www.google.com/maps/search/?api=1&query=Mipig+Cafe+Harajuku+Takeshitadori | Book in advance; weekdays or first session in the morning/late afternoon for less crowds. |
+| Cafe | Saryo Hanazomukashino Caffe Hana | N/A | 4.9 | 40 | Varies | https://www.google.com/maps/search/?api=1&query=Saryo+Hanazomukashino+Caffe+Hana | Open 11:00-21:00 (Closed Wednesdays). Reservations recommended for 18:00-21:00. |
+| Cafe | Pignic Cafe Asakusa | Asakusa | 5.0 | 40 | Yes | https://www.google.com/maps/search/?api=1&query=Pignic+Cafe+Asakusa | Reservation essential; weekdays for less crowds. |
+| Cream Puffs | Shiro-Hige's Cream Puff Factory Daita | Daita | 4.5 | N/A | Yes (takeaway recommended with infants) | https://www.google.com/maps/search/?api=1&query=Shiro-Hige's+Cream+Puff+Factory+Daita | Weekdays, early morning (near 10:30 AM opening) for best selection and to avoid crowds. |
+| Pancakes | Shiawase no Pancake (A Happy Pancake) | Various | 4.2 | N/A | Yes | https://www.google.com/maps/search/?api=1&query=Shiawase+no+Pancake+Tokyo | Reserve in advance or visit right before opening; weekdays for less crowds. |
+| Matcha Gelato | Nanaya Aoyama | Aoyama | 4.5 | N/A | Yes | https://www.google.com/maps/search/?api=1&query=Nanaya+Aoyama | Weekdays, shortly after opening (11:00 AM) or during off-peak hours to avoid crowds. Closed Tuesdays. |
+| Tea House/Parfaits | Saryo Tsujiri Daimaru | Tokyo Station | 4.5 | N/A | Yes | https://www.google.com/maps/search/?api=1&query=Saryo+Tsujiri+Daimaru | Daily, 10:00 AM - 8:00 PM (last order 7:30 PM); visit during off-peak hours to avoid queues. |
+| Fruit Parfaits | Sembikiya | Ginza | 4.5 | N/A | Yes | https://www.google.com/maps/search/?api=1&query=Sembikiya+Ginza | Daily (Mon-Sat 11:00 AM-8:00 PM, Sun/Holidays 11:00 AM-7:00 PM); visit earlier in the day for popular items. |
+| Ice Cream/Parfaits | GLACIEL Omotesando | Omotesando | 4.5 | N/A | Varies | https://www.google.com/maps/search/?api=1&query=GLACIEL+Omotesando | Daily, 11:00 AM - 7:00 PM (last order 6:00 PM for cafe); weekdays, especially afternoon, for less crowds. Reservations accepted on weekdays for cafe. |
+| Candied Apples | Pomme d'AMOUR | N/A | 4.5 | N/A | Varies | https://www.google.com/maps/search/?api=1&query=Pomme+d%27AMOUR+Tokyo | Daily, 1:00 PM - 8:00 PM (last order 7:30 PM); off-peak hours for less crowds. |
+| Tarts | Am Stram Gram | Ebisu | 4.5 | N/A | Yes | https://www.google.com/maps/search/?api=1&query=Am+Stram+Gram+Ebisu | Weekdays (Mon, Wed-Fri) 12:00 PM-7:00 PM; Weekends/Holidays 11:00 AM-7:00 PM. Closed Tuesdays. Mid-afternoon on weekdays for less crowds. |
+| Patisserie | Ease | Nihonbashi | 4.5 | N/A | No (not ideal for infants due to limited seating and no child amenities) | https://www.google.com/maps/search/?api=1&query=Ease+Nihonbashi | Early morning before 11:00 AM opening for best selection and seating. Closed Wednesdays. |
+| Taiyaki | Naruto Taiyaki Asakusa | Asakusa | 4.5 | N/A | Yes (takeaway) | https://www.google.com/maps/search/?api=1&query=Naruto+Taiyaki+Asakusa | Daily, 10:00 AM - 11:00 PM; visit early in the day to avoid queues. |
+| Wagashi | HIGASHIYA Ginza | Ginza | 4.5 | N/A | No | https://www.google.com/maps/search/?api=1&query=HIGASHIYA+Ginza | Daily, 11:00 AM - 7:00 PM (last order 6:00 PM for tea salon); reservations highly recommended. |
 | Cafe | A Home with Flowers (Hana no Aru Sumika) | Shinjuku | 4.5 | N/A | Varies | https://www.google.com/maps/search/?api=1&query=A+Home+with+Flowers+Shinjuku | N/A |
-| Cafe | Bar & Lounge Twenty Eight | N/A | 4.5 | N/A | Varies | https://www.google.com/maps/search/?api=1&query=Bar+%26+Lounge+Twenty+Eight+Tokyo | N/A |
-| Cafe | Eco Farm Cafe 632 | Meiji-Jingumae | 4.5 | N/A | Varies | https://www.google.com/maps/search/?api=1&query=Eco+Farm+Cafe+632+Meiji-Jingumae | N/A |
-| Cafe | Tengenji Cafe | N/A | 4.5 | N/A | Varies | https://www.google.com/maps/search/?api=1&query=Tengenji+Cafe+Tokyo | N/A |
-| Japanese Desserts | Omusubi Cafe Maishin | N/A | 4.5 | N/A | Varies | https://www.google.com/maps/search/?api=1&query=Omusubi+Cafe+Maishin+Tokyo | N/A |
+| Cafe | Bar & Lounge Twenty Eight | Shiodome | 4.5 | N/A | Yes | https://www.google.com/maps/search/?api=1&query=Bar+%26+Lounge+Twenty+Eight+Tokyo | Daily, 9:00 AM - midnight. Afternoon tea highly recommended. Visit at dusk/early evening for views; evenings for live music. |
+| Cafe | Eco Farm Cafe 632 | Meiji-Jingumae | 4.5 | N/A | Yes | https://www.google.com/maps/search/?api=1&query=Eco+Farm+Cafe+632+Meiji-Jingumae | Daily (Mon-Sat 9:00 AM-11:00 PM, Sun/Holidays 9:00 AM-9:30 PM); mornings or Saturday noon for less crowds. |
+| Cafe | Tengenji Cafe | N/A | 4.5 | 40 | Yes | https://www.google.com/maps/search/?api=1&query=Tengenji+Cafe+Tokyo | Daily, 11:00 AM - 10:00 PM (last order 9:00 PM); lunch hours recommended for families. |
+| Japanese Desserts | Omusubi Cafe Maishin | N/A | 4.5 | N/A | Varies | https://www.google.com/maps/search/?api=1&query=Omusubi+Cafe+Maishin+Tokyo | Daily (check for holiday closures); takeaway 8:00 AM-3:00 PM. Popular for lunch and dinner. |
 
 ## Scenery
 
@@ -85,7 +85,7 @@
 | Japanese-French Patisserie | Patisserie Sadaharu Aoki Paris | Various | 4.4 | 1,000+ | Yes | https://www.google.com/maps/search/?api=1&query=Patisserie+Sadaharu+Aoki+Paris | Weekdays, outside peak hours. |
 | Casual Cakes | Ginza Cozy Corner | Various | 4.0 | 500+ | Yes | https://www.google.com/maps/search/?api=1&query=Ginza+Cozy+Corner | N/A |
 | Local Patisserie | Patisserie & Boulangerie HARU | Toyocho | 4.3 | 200+ | Yes | https://www.google.com/maps/search/?api=1&query=Patisserie+%26+Boulangerie+HARU+Toyocho | N/A |
-| Matcha Cakes | Saryō Kagurazaka | Kagurazaka | 4.3 | 500+ | Varies | https://www.google.com/maps/search/?api=1&query=Saryo+Kagurazaka | Weekdays, reservations recommended. |
+| Matcha Cakes | Saryō Kagurazaka | Kagurazaka | 4.3 | 500+ | Yes | https://www.google.com/maps/search/?api=1&query=Saryo+Kagurazaka | Weekdays, reservations recommended. |
 | Matcha Cakes | Kyō Hayashiya | Various | 4.2 | 1,000+ | Yes | https://www.google.com/maps/search/?api=1&query=Kyo+Hayashiya | Weekdays, outside peak hours. |
 | Matcha Cakes | Tsujiri (Ginza) | Ginza | 4.4 | 1,000+ | Yes | https://www.google.com/maps/search/?api=1&query=Tsujiri+Ginza | Weekdays, outside peak hours. |
 | Matcha Cakes | Nana's Green Tea | Various | 4.1 | 2,000+ | Yes | https://www.google.com/maps/search/?api=1&query=Nana's+Green+Tea | Weekdays, outside peak hours. |

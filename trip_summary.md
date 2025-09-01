@@ -11,6 +11,16 @@
 *   **Address:** 2 Chome-8-6 Shiomi, Koto City, Tokyo 135-0052, Japan
 *   **Google Maps Link:** https://www.google.com/maps/search/Tokyo+Bay+Shiomi+Prince+Hotel
 
+## Bookings
+
+*   **Ginza Happo:** September 8th, 5:00 PM
+*   **Tonkatsu Hasegawa:** September 9th, 6:00 PM
+
+## Supper Preference
+
+*   **Ichiran Ramen (Tokyo Bay Shiomi)**: A classic ramen experience, perfect for a late-night meal.
+    *   **Address:** 2 Chome-8-6 Shiomi, Koto City, Tokyo 135-0052, Japan (This is the hotel address, assuming Ichiran is very close or within the hotel area based on the search result "Ichiran Ramen Tokyo Bay Shiomi")
+
 ## Itinerary: Tokyo Trip (September 6th - September 13th, 2025)
 
 This itinerary balances popular attractions with highly-rated dining experiences, grouped by area for efficiency. Remember to check specific opening hours and make reservations where recommended, especially for popular restaurants.
@@ -73,12 +83,6 @@ This itinerary balances popular attractions with highly-rated dining experiences
 *   **Lunch:** Enjoy lunch in Odaiba.
 *   **Afternoon:** Last-minute souvenir shopping at Aqua City Odaiba or DiverCity Tokyo Plaza.
 *   **3:00 PM:** Travel to Narita International Airport (NRT) to arrive by 5:00 PM for your 7:00 PM flight.
-
-## Bookings
-
-*   **Ginza Happo:** September 8th, 5:00 PM
-*   **Tonkatsu Hasegawa:** September 9th, 6:00 PM
-
 ---
 
 **Important Notes:**
