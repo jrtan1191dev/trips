@@ -2,7 +2,7 @@
 
 ## Food
 
-| Category | Restaurant Name | Area | Rating | Number of Reviews | Are infants accepted | Google Map Link | Best Time to Visit |
+| Category | Restaurant Name | Area | Rating | Number of Reviews (Google Map) | Are infants accepted | Google Map Link | Best Time to Visit |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | Ramen | Fuunji | Shibuya | 4.3 | 4,000+ | No | https://www.google.com/maps/search/?api=1&query=Fuunji+Shibuya | Weekdays, outside peak hours (e.g., 11 AM, 2-3 PM, 5-6 PM), or during inclement weather. Closed Sundays/holidays. |
 | Ramen | Ichiran (Shibuya) | Shibuya | 4.5 | 2,260+ | Yes | https://www.google.com/maps/search/?api=1&query=Ichiran+Shibuya | Early morning (6-9 AM) or late night (12-2 AM) to avoid crowds. Late afternoon (4 PM) also good. |
@@ -29,7 +29,7 @@
 
 ## Desserts
 
-| Category | Restaurant Name | Area | Rating | Number of Reviews | Are infants accepted | Google Map Link | Best Time to Visit |
+| Category | Restaurant Name | Area | Rating | Number of Reviews (Google Map) | Are infants accepted | Google Map Link | Best Time to Visit |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | Parfait | Ginza Sembikiya | Ginza | 4.1 | 1,000+ | Yes | https://www.google.com/maps/place/Ginza+Sembikiya+Main+Store/@35.672438,139.76325,15z/data=!4m2!3m1!1s0x0:0x53b1897a5de331f?sa=X&ved=1t:2428&ictx=111 | Weekdays, outside peak hours. |
 | Parfait | Shinjuku Takano Fruit Parlour | Shinjuku | 4.1 | 2,000+ | Yes | https://www.google.com/maps/search/Takano+Fruits+Parlor+Shinjuku+Main+Store | Weekdays, outside peak hours. |
