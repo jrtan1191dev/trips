@@ -26,6 +26,7 @@
 | Teppanyaki | Teppanyaki Sumiyaki Saito | Roppongi | 4.9 | N/A | Varies (contact directly) | https://www.google.com/maps/search/?api=1&query=Teppanyaki+Sumiyaki+Saito | Evenings (for special occasions) |
 | Sushi | SUSHI-YAMA Shinjuku | Shinjuku | 4.9 | 201+ | Varies (contact directly) | https://www.google.com/maps/search/?api=1&query=SUSHI-YAMA+Shinjuku | N/A |
 | Chanko Nabe | Chanko & Wanko Restaurant Asakusa Sumo Club | Asakusa | 4.9 | N/A | Yes | https://www.google.com/maps/search/?api=1&query=Chanko+%26+Wanko+Restaurant+Asakusa+Sumo+Club | Daily, 12:00-20:00 (check showtimes and reserve in advance) |
+| Unagi | Unagi Komagata Maekawa Main Branch | Asakusa | 4.5 | 500+ | Varies (call ahead) | https://www.google.com/maps/search/?api=1&query=Unagi+Komagata+Maekawa | Reservations recommended |
 
 ## Desserts
 

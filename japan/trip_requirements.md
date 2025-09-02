@@ -17,6 +17,10 @@
 *   **Ginza Happo:** September 8th, 5:00 PM
 *   **Tonkatsu Hasegawa:** September 9th, 6:00 PM
 
+## Must-Visit
+
+*   **Akachan Honpo:** A one-stop shop for baby merchandise.
+
 ## Supper Preference
 
 *   **Ichiran Ramen (Tokyo Bay Shiomi)**: A classic ramen experience, perfect for a late-night meal.
