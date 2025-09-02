@@ -6,7 +6,7 @@
 *   **Arrival:** Saturday, September 6th, 2025, 12:55 AM - 8:40 AM, Flight NQ4 (Air Japan) at Narita International Airport (NRT)
 *   **Departure:** Saturday, September 13th, 2025, 7:00 PM - 12:55 AM, Flight SQ11 from Narita International Airport (NRT)
 
-## Hotel Information
+## Accommodation/Hotel Information
 
 *   **Hotel:** Tokyo Bay Shiomi Prince Hotel
 *   **Address:** 2 Chome-8-6 Shiomi, Koto City, Tokyo 135-0052, Japan
