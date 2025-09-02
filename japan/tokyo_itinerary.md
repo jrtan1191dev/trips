@@ -29,18 +29,18 @@ This itinerary has been updated to vary the supper options and confirms that you
 
 ### Day 2: Sunday, September 7th - Ueno & Akihabara
 
-*   **Focus:** Culture, Parks, and Pop Culture.
-*   **Morning: Ueno**
+*   **Focus:** Cultural Treasures, Market Bustle, and Electric Town.
+*   **Morning: Ueno Park & Museum**
     *   **Scenery:** Stroll through **Ueno Park (4.4 rating)**.
-    *   **Cafe:** **Yusoshi Chano-ma (Ueno)**, a cafe recommended for those with young children.
-*   **Lunch: Ueno**
-    *   Explore the restaurants around Ueno Station or Ameya Yokocho market.
-*   **Afternoon: Akihabara**
-    *   **Shopping:** Dive into the electronics, anime, and arcade culture.
+    *   **Culture:** Visit the **Tokyo National Museum**, Japan's largest and oldest museum, to see a vast collection of Japanese art and antiquities.
+*   **Lunch: Ameya Yokocho Market**
+    *   **Street Food & Shopping:** Explore the lively **Ameya Yokocho Market**. It's a great place for a casual lunch with lots of different street food stalls to try, from fresh fruit and seafood to takoyaki and kebabs.
+*   **Afternoon: Akihabara Exploration**
+    *   **Shopping:** Dive into "Electric Town". Visit the massive **Yodobashi Camera** complex. Hunt for retro games at **Super Potato**. Explore the multi-story **Mandarake** complex for anime, manga, and collectibles.
 *   **Dinner: Akihabara**
-    *   Find a highly-rated themed cafe or a local restaurant.
+    *   **Tonkatsu:** Enjoy a high-quality dinner at **Marugo (highly rated)**, a long-established restaurant famous for its tender and juicy pork cutlets. Be prepared for a possible queue.
 *   **Supper (Optional):**
-    *   Explore Akihabara for late-night ramen shops or head to a 24/7 restaurant.
+    *   If you're still up for more, Akihabara has many late-night ramen shops to explore.
 
 ---
 
