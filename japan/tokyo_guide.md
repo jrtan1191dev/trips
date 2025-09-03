@@ -119,6 +119,13 @@
 | KAORUKO Florist Ginza | Ginza | 4.6 | 100+ | https://www.google.com/maps/search/?api=1&query=KAORUKO+Florist+Ginza | N/A |
 | Monceau Fleurs | Ginza | 4.3 | 200+ | https://www.google.com/maps/search/?api=1&query=Monceau+Fleurs+Ginza | N/A |
 | Hana Hiden-en | Toyo | 4.2 | 50+ | https://www.google.com/maps/search/?api=1&query=Hana+Hiden-en+Toyo | N/A |
+| logi Plant&Flowers | Omotesando | 4.6 | 50+ | https://www.google.com/maps/search/?api=1&query=logi+Plant%26Flowers+Omotesando | N/A |
+| Nicolai Bergmann | Omotesando & Roppongi | 4.4 | 500+ | https://www.google.com/maps/search/?api=1&query=Nicolai+Bergmann+Omotesando | N/A |
+| Diligence Parlour | Omotesando | 4.4 | 30+ | https://www.google.com/maps/search/?api=1&query=Diligence+Parlour+Omotesando | N/A |
+| All Good Flowers | Aoyama | 4.6 | 40+ | https://www.google.com/maps/search/?api=1&query=All+Good+Flowers+Aoyama | N/A |
+| Sorcery Dressing | Ebisu | 4.8 | 30+ | https://www.google.com/maps/search/?api=1&query=Sorcery+Dressing+Ebisu | N/A |
+| Fuga | Harajuku | 4.4 | 60+ | https://www.google.com/maps/search/?api=1&query=Fuga+Harajuku | N/A |
+| The Little Shop of Flowers | Harajuku | 4.6 | 30+ | https://www.google.com/maps/search/?api=1&query=The+Little+Shop+of+Flowers+Harajuku | N/A |
 
 ## Shopping
 
