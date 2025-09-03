@@ -7,20 +7,15 @@ This itinerary has been updated to vary the supper options and confirms that you
 
 ---
 
-### Day 1: Saturday, September 6th - Arrival & Asakusa/Sumida
+### Day 1: Saturday, September 6th - Arrival & Odaiba
 
-*   **Focus:** Traditional Tokyo & Modern Views.
+*   **Focus:** Futuristic Entertainment and Waterfront Views.
 *   **Morning (8:40 AM):** Arrive at NRT, travel to hotel, check-in.
-*   **Afternoon: Asakusa**
-    *   **Scenery:** Visit **Senso-ji Temple (4.5 rating)**.
-    *   **Shopping:** Explore **Nakamise-dori Street**.
-    *   **Cafe:** **Pignic Cafe Asakusa (5.0 rating)** (reservation essential).
-*   **Lunch: Asakusa**
-    *   **Sukiyaki:** **Asakusa Imahan Kokusai Dori Honten (4.4 rating)**.
-*   **Evening: Sumida**
-    *   **Scenery:** **Tokyo Skytree (4.4 rating)** for panoramic views (book in advance).
-*   **Dinner: Asakusa**
-    *   **Unagi:** **Unagi Komagata Maekawa Main Branch (4.5 rating)** for a historic meal with a view of the Sumida River (reservations recommended).
+*   **Afternoon: Odaiba**
+    *   **Scenery:** See the **Unicorn Gundam statue** and **Statue of Liberty replica**.
+    *   **Shopping:** Explore **Aqua City, Decks, and DiverCity**. Find **Nishimatsuya** for baby goods.
+*   **Lunch:** Choose a restaurant in one of the malls like Aqua City or Decks for convenience.
+*   **Dinner:** Enjoy dinner at one of the many restaurants in Odaiba offering a view of the Rainbow Bridge.
 *   **Supper:**
     *   **Ichiran Ramen** near the hotel for a classic first-night meal.
 
@@ -82,21 +77,20 @@ This itinerary has been updated to vary the supper options and confirms that you
 
 ---
 
-### Day 5: Wednesday, September 10th - Shinjuku
+### Day 5: Wednesday, September 10th - Asakusa & Sumida
 
-*   **Focus:** Gardens, City Views, and Izakaya Alleys.
-*   **Morning: Shinjuku Gyoen**
-    *   **Scenery:** Explore **Shinjuku Gyoen National Garden (4.6 rating)**.
-*   **Lunch: Shinjuku**
-    *   **Sushi:** **SUSHI-YAMA Shinjuku (4.9 rating)**.
-*   **Afternoon: Shinjuku Views & Shopping**
-    *   **Scenery:** **Tokyo Metropolitan Government Building (4.6 rating)** for free panoramic views.
-    *   **Shopping:** Explore **Isetan, Lumine, and Takashimaya**.
-*   **Dinner: Shinjuku**
-    *   **Yakiniku:** **Rokkasen (4.5 rating)** (reservations highly recommended).
-*   **Supper (Optional):**
-    *   **Ramen:** **Ramen Nagi** (open 24/7) in Golden Gai.
-    *   **Snack:** **Gindaco Highball Sakaba** for late-night takoyaki.
+*   **Focus:** Traditional Tokyo & Modern Views.
+*   **Morning: Asakusa**
+    *   **Scenery:** Visit **Senso-ji Temple (4.5 rating)** and the nearby **Imado Shrine (4.2 rating)**.
+    *   **Shopping:** Explore **Nakamise-dori Street**.
+*   **Lunch: Asakusa**
+    *   **Sukiyaki:** **Asakusa Imahan Kokusai Dori Honten (4.4 rating)**.
+*   **Afternoon: Asakusa**
+    *   **Cafe:** **Pignic Cafe Asakusa (5.0 rating)** (reservation essential).
+*   **Evening: Sumida**
+    *   **Scenery:** **Tokyo Skytree (4.4 rating)** for panoramic views (book in advance).
+*   **Dinner: Asakusa**
+    *   **Unagi:** **Unagi Komagata Maekawa Main Branch (4.5 rating)** for a historic meal with a view of the Sumida River (reservations recommended).
 
 ---
 
@@ -118,17 +112,21 @@ This itinerary has been updated to vary the supper options and confirms that you
 
 ---
 
-### Day 7: Friday, September 12th - Odaiba
+### Day 7: Friday, September 12th - Shinjuku
 
-*   **Focus:** Futuristic Entertainment and Waterfront Views.
-*   **All Day: Odaiba**
-    *   **Scenery:** See the **Unicorn Gundam statue** and **Statue of Liberty replica**.
-    *   **Shopping:** Explore **Aqua City, Decks, and DiverCity**. Find **Nishimatsuya** for baby goods.
-*   **Lunch:** Food court in one of the malls.
-*   **Dinner: Roppongi (short trip from Odaiba)**
-    *   **Teppanyaki:** **Teppanyaki Sumiyaki Saito (4.9 rating)** for a high-end celebratory dinner (reservations essential).
+*   **Focus:** Gardens, City Views, and Izakaya Alleys.
+*   **Morning: Shinjuku Gyoen**
+    *   **Scenery:** Explore **Shinjuku Gyoen National Garden (4.6 rating)**.
+*   **Lunch: Shinjuku**
+    *   **Sushi:** **SUSHI-YAMA Shinjuku (4.9 rating)**.
+*   **Afternoon: Shinjuku Views & Shopping**
+    *   **Scenery:** **Tokyo Metropolitan Government Building (4.6 rating)** for free panoramic views.
+    *   **Shopping:** Explore **Isetan, Lumine, and Takashimaya**.
+*   **Dinner: Shinjuku**
+    *   **Yakiniku:** **Rokkasen (4.5 rating)** (reservations highly recommended).
 *   **Supper (Optional):**
-    *   Roppongi is known for its nightlife; explore the area for late-night dining options.
+    *   **Ramen:** **Ramen Nagi** (open 24/7) in Golden Gai.
+    *   **Snack:** **Gindaco Highball Sakaba** for late-night takoyaki.
 
 ---
 

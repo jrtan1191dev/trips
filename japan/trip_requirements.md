@@ -21,6 +21,7 @@
 
 *   **Akachan Honpo:** A one-stop shop for baby merchandise.
 *   **teamLab:** Immersive digital art museum.
+*   **Imado Shrine:** A shrine famous for maneki-neko (beckoning cats).
 
 ## Supper Preference
 
