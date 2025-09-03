@@ -1,5 +1,24 @@
 # Tokyo Guide
 
+## Near Tokyo Bay Shiomi Prince Hotel
+
+### Food
+
+| Category | Restaurant Name | Area | Rating | Number of Reviews (Google Map) | Are infants accepted | Google Map Link | Best Time to Visit |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Japanese French | TIDE TABLE Shiomi | Hotel | 4.0 | 100+ | Yes | https://www.google.com/maps/search/?api=1&query=TIDE+TABLE+Shiomi | Dinner |
+| Japanese | Kitchen Origin Shiomi | Shiomi | 3.5 | 50+ | Yes | https://www.google.com/maps/search/?api=1&query=Kitchen+Origin+Shiomi | Lunch/Dinner |
+| Seafood | Toyosu Market | Toyosu | 4.3 | 10,000+ | Yes | https://www.google.com/maps/search/?api=1&query=Toyosu+Market+restaurants | Morning |
+
+### Shopping
+
+| Category | Store Name / Area | Area | Rating | Number of Reviews | Google Map Link | Best Time to Visit |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Convenience Store | Familymart | Hotel | 4.0 | 50+ | https://www.google.com/maps/search/?api=1&query=FamilyMart+Tokyo+Bay+Shiomi+Prince+Hotel | 24/7 |
+| Supermarket | Maruetsu | Shiomi | 4.0 | 200+ | https://www.google.com/maps/search/?api=1&query=Maruetsu+Shiomi | 9am-11pm |
+| Shopping Mall | Ikspiari | Maihama | 4.3 | 10,000+ | https://www.google.com/maps/search/?api=1&query=Ikspiari | Weekdays |
+| Shopping Mall | Odaiba Malls | Odaiba | 4.2 | 50,000+ | https://www.google.com/maps/search/?api=1&query=Odaiba+shopping+malls | Weekdays |
+
 ## Food
 
 | Category | Restaurant Name | Area | Rating | Number of Reviews (Google Map) | Are infants accepted | Google Map Link | Best Time to Visit |
@@ -114,7 +133,14 @@
 | High-end Boutiques | Omotesando (Omotesando Hills, GYRE) | Omotesando | 4.5 | 10,000+ | https://www.google.com/maps/search/?api=1&query=Omotesando+shopping | Weekdays. |
 | Vintage Clothing | Shimo-Kitazawa | Setagaya | 4.3 | 5,000+ | https://www.google.com/maps/search/?api=1&query=Shimo-Kitazawa+shopping | Weekdays. |
 | Mixed Fashion/Malls | Kichijoji (Atre, Coppice) | Kichijoji | 4.2 | 8,000+ | https://www.google.com/maps/search/?api=1&query=Kichijoji+shopping | Weekdays. |
-| Shopping/Entertainment Malls | Odaiba (Aquacity, Decks, DiverCity) | Odaiba | 4.3 | 12,000+ | https://www.google.com/maps/search/?api=1&query=Odaiba+shopping | Weekdays. |
+| Shopping Mall | Aqua City Odaiba | Odaiba | 4.1 | 25,000+ | https://www.google.com/maps/search/?api=1&query=Aqua+City+Odaiba | Weekdays |
+| Shopping Mall | DiverCity Tokyo Plaza | Odaiba | 4.2 | 30,000+ | https://www.google.com/maps/search/?api=1&query=DiverCity+Tokyo+Plaza | Weekdays |
+| Shopping Mall | Decks Tokyo Beach | Odaiba | 4.2 | 20,000+ | https://www.google.com/maps/search/?api=1&query=Decks+Tokyo+Beach | Weekdays |
+| Shopping Mall | VenusFort | Odaiba | 4.1 | 15,000+ | https://www.google.com/maps/search/?api=1&query=VenusFort | Weekdays |
+| Nostalgic Shopping | Daiba 1-Chome Shotengai | Odaiba | 4.3 | 5,000+ | https://www.google.com/maps/search/?api=1&query=Daiba+1-Chome+Shotengai | Weekdays |
+| Anime/Models | The Gundam Base Tokyo | Odaiba | 4.5 | 3,000+ | https://www.google.com/maps/search/?api=1&query=The+Gundam+Base+Tokyo | Weekdays |
+| Character Goods | Hello Kitty Japan | Odaiba | 4.3 | 1,000+ | https://www.google.com/maps/search/?api=1&query=Hello+Kitty+Japan+Odaiba | Weekdays |
+| Souvenirs | Tokyo Craft Town | Odaiba | 4.4 | 500+ | https://www.google.com/maps/search/?api=1&query=Tokyo+Craft+Town | Weekdays |
 
 ### Baby Merchandise
 

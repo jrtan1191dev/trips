@@ -10,15 +10,23 @@ This itinerary has been updated to vary the supper options and confirms that you
 ### Day 1: Saturday, September 6th - Arrival & Odaiba
 
 *   **Focus:** Futuristic Entertainment and Waterfront Views.
-*   **Morning (8:40 AM):** Arrive at NRT, travel to hotel, check-in.
-*   **Afternoon: Odaiba**
-    *   **Scenery:** See the **Unicorn Gundam statue** and **Statue of Liberty replica**.
-    *   **Shopping:** Explore **Aqua City, Decks, and DiverCity**. Find **Nishimatsuya** for baby goods.
-*   **Lunch:** Choose a restaurant in one of the malls like Aqua City or Decks for convenience.
-*   **Dinner:** Enjoy dinner at one of the many restaurants in Odaiba offering a view of the Rainbow Bridge.
+*   **Morning (8:40 AM):** Arrive at NRT, clear immigration, pick up luggage, and travel to the Tokyo Bay Shiomi Prince Hotel to check-in and drop off your bags.
+*   **Lunch: Odaiba**
+    *   Head to **Aqua City Odaiba** for a casual and highly-rated lunch. Choose from:
+        *   **Tokyo Ramen Kokugikan Mai (4.1 rating):** A ramen "street" featuring six famous shops from across Japan. Great for variety.
+        *   **Kua'aina Burger (4.2 rating):** Famous for its large, delicious Hawaiian-style burgers and sandwiches, with excellent views of the Rainbow Bridge.
+*   **Afternoon: Odaiba Exploration**
+    *   **Scenery:** See the iconic, life-sized **Unicorn Gundam statue** in front of DiverCity Tokyo Plaza.
+    *   **Shopping & Entertainment:**
+        *   **DiverCity Tokyo Plaza:** Visit **The Gundam Base Tokyo (4.5 rating)**, a paradise for Gundam fans. You can also find **Nishimatsuya** here for affordable baby clothes and supplies.
+        *   **Decks Tokyo Beach:** Explore the **Daiba 1-Chome Shotengai (4.3 rating)**, a retro shopping street that recreates the atmosphere of 1960s Tokyo, complete with nostalgic snacks and games.
+*   **Dinner: Odaiba**
+    *   Enjoy a relaxing dinner with stunning waterfront views at **bills Odaiba (4.1 rating)**, a popular Australian restaurant known for its airy ambiance and famous ricotta pancakes (they also serve a full dinner menu). It's spacious and a good option with an infant.
 *   **Supper:**
+    *   If you're feeling peckish after returning to the hotel, you have a couple of convenient options right nearby:
+        *   **Kitchen Origin Shiomi:** A local bento shop for a simple, takeaway meal.
+        *   **Familymart/Maruetsu:** The convenience store in the hotel or the supermarket near the station for snacks, drinks, and light bites.
     *   **Ichiran Ramen** near the hotel for a classic first-night meal.
-
 ---
 
 ### Day 2: Sunday, September 7th - Ueno & Akihabara
