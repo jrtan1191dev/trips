@@ -42,9 +42,9 @@
 | Takoyaki | Gindaco Highball Sakaba (Shinjuku) | Shinjuku | 4.0 | 500+ | No | https://www.google.com/maps/search/?api=1&query=Gindaco+Highball+Sakaba+Shinjuku | Earlier in the day (11-11:30 AM) for less crowded. Evenings are lively. |
 | Kaiseki | Tokyo Shiba Tofuya Ukai | Shiba | 4.5 | 2,894+ | Yes | https://www.google.com/maps/search/?api=1&query=Tokyo+Shiba+Tofuya+Ukai+4-4-13+Shibakoen,+Minato-ku,+Tokyo | Weekday lunch for quieter experience and garden views. Dinner for illuminated garden. Reservations essential. |
 | Japanese | Japanese Food Wagyu Restaurant (Halal) | Ginza | 4.8 | 146+ | Yes | https://www.google.com/maps/search/?api=1&query=Japanese+Food+Wagyu+Restaurant+Halal+Ginza | Daily, 11:00-23:00 (Last order 22:45) |
-| Teppanyaki | Teppanyaki Sumiyaki Saito | Roppongi | 4.9 | N/A | Varies (contact directly) | https://www.google.com/maps/search/?api=1&query=Teppanyaki+Sumiyaki+Saito | Evenings (for special occasions) |
-| Sushi | SUSHI-YAMA Shinjuku | Shinjuku | 4.9 | 201+ | Varies (contact directly) | https://www.google.com/maps/search/?api=1&query=SUSHI-YAMA+Shinjuku | N/A |
-| Chanko Nabe | Chanko & Wanko Restaurant Asakusa Sumo Club | Asakusa | 4.9 | N/A | Yes | https://www.google.com/maps/search/?api=1&query=Chanko+%26+Wanko+Restaurant+Asakusa+Sumo+Club | Daily, 12:00-20:00 (check showtimes and reserve in advance) |
+| Teppanyaki | Teppanyaki Sumiyaki Saito | Roppongi | 4.9 | 1+ (Tabelog) | Varies (contact directly) | https://www.google.com/maps/search/?api=1&query=Teppanyaki+Sumiyaki+Saito | Evenings (for special occasions) |
+| Sushi | SUSHI-YAMA Shinjuku | Shinjuku | 4.9 | 201+ | Varies (contact directly) | https://www.google.com/maps/search/?api=1&query=SUSHI-YAMA+Shinjuku | Reservations recommended; otherwise, visit during off-peak hours (e.g., late lunch or early weekday dinner). |
+| Chanko Nabe | Chanko & Wanko Restaurant Asakusa Sumo Club | Asakusa | 4.9 | 1+ (Tabelog) | Yes | https://www.google.com/maps/search/?api=1&query=Chanko+%26+Wanko+Restaurant+Asakusa+Sumo+Club | Daily, 12:00-20:00 (check showtimes and reserve in advance) |
 | Unagi | Unagi Komagata Maekawa Main Branch | Asakusa | 4.5 | 500+ | Varies (call ahead) | https://www.google.com/maps/search/?api=1&query=Unagi+Komagata+Maekawa | Reservations recommended |
 
 ## Desserts
