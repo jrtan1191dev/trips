@@ -20,6 +20,7 @@
 ## Must-Visit
 
 *   **Akachan Honpo:** A one-stop shop for baby merchandise.
+*   **teamLab:** Immersive digital art museum.
 
 ## Supper Preference
 

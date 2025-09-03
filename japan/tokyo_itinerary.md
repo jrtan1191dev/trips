@@ -1,4 +1,3 @@
-
 # Tokyo Trip Itinerary (September 6th - 13th, 2025)
 
 This itinerary has been updated to vary the supper options and confirms that your bookings and must-visit shops are included. It remains optimized for high ratings and efficient travel between nearby locations.
@@ -44,16 +43,18 @@ This itinerary has been updated to vary the supper options and confirms that you
 
 ---
 
-### Day 3: Monday, September 8th - Central Tokyo (Tsukiji, Ginza, Nihonbashi)
+### Day 3: Monday, September 8th - Central Tokyo (Tsukiji, Azabudai, Ginza)
 
-*   **Focus:** Fresh Seafood, Luxury Shopping, and Culinary Delights.
+*   **Focus:** Fresh Seafood, Digital Art, and Luxury Shopping.
 *   **Morning: Tsukiji Outer Market**
     *   **Breakfast:** Fresh **Sushi/Sashimi** at **Sushizanmai Tsukijiekimae-Ten (4.4 rating)**.
-*   **Late Morning/Afternoon: Ginza**
+*   **Late Morning: Azabudai Hills**
+    *   **Art:** Immerse yourself in **teamLab Borderless (4.6 rating)** (book tickets well in advance).
+*   **Lunch: Azabudai Hills or Ginza**
+    *   Explore the restaurants in Azabudai Hills or head to Ginza for a wide selection of options.
+*   **Afternoon: Ginza**
     *   **Shopping:** Explore **Ginza Six, Mitsukoshi, and Wako**.
     *   **Dessert:** **Age.3 Ginza (4.8 rating)** or **Henri Charpentier (4.5 rating)**.
-*   **Lunch: Ginza**
-    *   **Wagyu:** **Japanese Food Wagyu Restaurant (Halal) (4.8 rating)**.
 *   **Dinner (5:00 PM Booking): Ginza**
     *   **Ginza Happo**.
 *   **Late Dinner/Second Dinner: Nihonbashi**
@@ -121,7 +122,6 @@ This itinerary has been updated to vary the supper options and confirms that you
 
 *   **Focus:** Futuristic Entertainment and Waterfront Views.
 *   **All Day: Odaiba**
-    *   **Entertainment:** **teamLab Planets** (book in advance).
     *   **Scenery:** See the **Unicorn Gundam statue** and **Statue of Liberty replica**.
     *   **Shopping:** Explore **Aqua City, Decks, and DiverCity**. Find **Nishimatsuya** for baby goods.
 *   **Lunch:** Food court in one of the malls.
