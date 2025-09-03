@@ -16,11 +16,12 @@
 
 *   **Ginza Happo:** September 8th, 5:00 PM
 *   **Tonkatsu Hasegawa:** September 9th, 6:00 PM
+*   **TeamLab Planet:** September 9th, 12:00PM
 
 ## Must-Visit
 
 *   **Akachan Honpo:** A one-stop shop for baby merchandise.
-*   **teamLab:** Immersive digital art museum.
+*   **TeamLab Planet:** Immersive digital art museum.
 *   **Imado Shrine:** A shrine famous for maneki-neko (beckoning cats).
 
 ## Supper Preference

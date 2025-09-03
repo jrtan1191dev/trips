@@ -3,7 +3,7 @@
 This itinerary has been updated to vary the supper options and confirms that your bookings and must-visit shops are included. It remains optimized for high ratings and efficient travel between nearby locations.
 
 **Hotel:** Tokyo Bay Shiomi Prince Hotel
-**Bookings:** Ginza Happo (Sept 8, 5pm), Tonkatsu Hasegawa (Sept 9, 6pm)
+**Bookings:** Ginza Happo (Sept 8, 5pm), Tonkatsu Hasegawa (Sept 9, 6pm), TeamLab Planet (Sept 9, 12pm)
 
 ---
 
@@ -51,8 +51,6 @@ This itinerary has been updated to vary the supper options and confirms that you
 *   **Focus:** Fresh Seafood, Digital Art, and Luxury Shopping.
 *   **Morning: Tsukiji Outer Market**
     *   **Breakfast:** Fresh **Sushi/Sashimi** at **Sushizanmai Tsukijiekimae-Ten (4.4 rating)**.
-*   **Late Morning: Azabudai Hills**
-    *   **Art:** Immerse yourself in **teamLab Borderless (4.6 rating)** (book tickets well in advance).
 *   **Lunch: Azabudai Hills or Ginza**
     *   Explore the restaurants in Azabudai Hills or head to Ginza for a wide selection of options.
 *   **Afternoon: Ginza**
@@ -65,23 +63,34 @@ This itinerary has been updated to vary the supper options and confirms that you
 
 ---
 
-### Day 4: Tuesday, September 9th - Harajuku & Shibuya
+### Day 4: Tuesday, September 9th - Toyosu, Harajuku & Shibuya
 
-*   **Focus:** Youth Fashion, Iconic Crossings, and Your Must-Shops.
-*   **Morning: Harajuku**
-    *   **Scenery:** Visit **Meiji Jingu Shrine (4.6 rating)**.
-    *   **Shopping:** Walk down **Takeshita Street**.
-    *   **Cafe:** **Mipig Cafe Harajuku Takeshitadori (4.9 rating)** (book in advance).
-*   **Lunch: Harajuku**
-    *   **Donburi:** **RedRock (Harajuku) (4.2 rating)**.
-*   **Afternoon: Shibuya**
-    *   **Scenery:** **Shibuya Sky (4.6 rating)** (book in advance).
+*   **Focus:** Modern Market, Digital Art, Youth Culture & Iconic Crossings.
+*   **Morning: Toyosu**
+    *   **Scenery & Breakfast:** Visit the **Toyosu Fish Market (4.2 rating)**. Explore the restaurant area for a fresh sushi breakfast. Top choices include **Sushi Dai (4.4 rating)** and **Daiwa Sushi (4.3 rating)**, but expect very long queues. There are many other excellent options with shorter waits.
+*   **12:00 PM (Booking): TeamLab Planets**
+    *   **Art:** Immerse yourself in the digital art at **TeamLab Planets (4.7 rating)**, located in Toyosu.
+*   **Afternoon: Harajuku**
+    *   Travel from Toyosu to Harajuku (approx. 30-40 minutes).
+    *   **Lunch: Harajuku**
+        *   **Donburi:** **RedRock (Harajuku) (4.2 rating)**.
+    *   **Afternoon: Harajuku Exploration**
+        *   **Scenery:** Visit **Meiji Jingu Shrine (4.6 rating)**.
+        *   **Shopping:** Walk down **Takeshita Street**.
+        *   **Cafe:** **Mipig Cafe Harajuku Takeshitadori (4.9 rating)** (book in advance).
+*   **Late Afternoon: Travel to Shibuya**
+    *   **Estimated Travel Time (Harajuku to Shibuya):**
+        *   **By Foot:** A pleasant 15-20 minute walk, especially along Cat Street.
+        *   **By Train:** A quick 2-3 minute ride on the JR Yamanote Line.
+*   **Late Afternoon: Shibuya**
+    *   **Scenery (Optional):** **Shibuya Sky (4.6 rating)** (book in advance for a late afternoon/sunset slot).
     *   **Shopping:** Explore **Shibuya Parco** and **Miyashita Park**.
     *   **Must-Do Shopping:** Find **Akachan Honpo** for baby merchandise.
-*   **Dinner (6:00 PM Booking):**
+*   **6:00 PM (Booking): Dinner in Shibuya**
     *   **Tonkatsu Hasegawa**.
-*   **Evening:**
+*   **Evening: Shibuya**
     *   **Late Night Dessert:** Instead of a full supper, enjoy a **Night Parfait** at **Parfaiteria Bel (4.4 rating)** or **EMME (4.5 rating)** in Shibuya.
+    *   **Alternative Supper:** If you prefer something savory, grab a late-night bowl of ramen at **Ichiran Shibuya** or explore the many izakayas in the **Nonbei Yokocho (Drunkard's Alley)** area near the station.
 
 ---
 
