@@ -27,6 +27,11 @@ This itinerary has been updated to vary the supper options and confirms that you
         *   **Kitchen Origin Shiomi:** A local bento shop for a simple, takeaway meal.
         *   **Familymart/Maruetsu:** The convenience store in the hotel or the supermarket near the station for snacks, drinks, and light bites.
     *   **Ichiran Ramen** near the hotel for a classic first-night meal.
+*   **Potential Alternatives (Odaiba):**
+    *   **Shopping Malls:** VenusFort, Aqua City, DiverCity, and Decks have a wide variety of restaurants.
+    *   **Character Goods:** Hello Kitty Japan (DiverCity).
+    *   **Souvenirs:** Tokyo Craft Town (Decks).
+
 ---
 
 ### Day 2: Sunday, September 7th - Ueno & Akihabara
@@ -43,6 +48,8 @@ This itinerary has been updated to vary the supper options and confirms that you
     *   **Tonkatsu:** Enjoy a high-quality dinner at **Marugo (highly rated)**, a long-established restaurant famous for its tender and juicy pork cutlets. Be prepared for a possible queue.
 *   **Supper (Optional):**
     *   If you're still up for more, Akihabara has many late-night ramen shops to explore.
+*   **Potential Alternatives (Ueno):**
+    *   **Japanese Desserts:** Yusoshi Chano-ma (4.1 rating).
 
 ---
 
@@ -60,6 +67,12 @@ This itinerary has been updated to vary the supper options and confirms that you
     *   **Ginza Happo**.
 *   **Late Dinner/Second Dinner: Nihonbashi**
     *   **Kaisendon:** **Tsujihan (4.4 rating)** (expect a long queue, not infant-friendly).
+*   **Potential Alternatives (Ginza/Nihonbashi):**
+    *   **Parfait:** Ginza Sembikiya (4.1 rating).
+    *   **Sashimi:** Kyubey Ginza Honten (4.4 rating, reservations essential).
+    *   **Matcha Cakes:** Tsujiri (4.4 rating).
+    *   **Wagashi:** HIGASHIYA Ginza (4.5 rating).
+    *   **Patisserie:** Ease (4.5 rating, Nihonbashi).
 
 ---
 
@@ -91,6 +104,10 @@ This itinerary has been updated to vary the supper options and confirms that you
 *   **Evening: Shibuya**
     *   **Late Night Dessert:** Instead of a full supper, enjoy a **Night Parfait** at **Parfaiteria Bel (4.4 rating)** or **EMME (4.5 rating)** in Shibuya.
     *   **Alternative Supper:** If you prefer something savory, grab a late-night bowl of ramen at **Ichiran Shibuya** or explore the many izakayas in the **Nonbei Yokocho (Drunkard's Alley)** area near the station.
+*   **Potential Alternatives (Shibuya):**
+    *   **Ramen:** Fuunji (4.3 rating, no infants).
+    *   **Sushi:** Uobei Shibuya Dogenzaka (4.2 rating, no infants).
+    *   **Shabu Shabu:** Nabezo Shibuya Koendori (4.4 rating).
 
 ---
 
@@ -110,6 +127,9 @@ This itinerary has been updated to vary the supper options and confirms that you
     *   **Scenery:** **Tokyo Skytree (4.4 rating)** for panoramic views (book in advance).
 *   **Dinner: Asakusa**
     *   **Unagi:** **Unagi Komagata Maekawa Main Branch (4.5 rating)** for a historic meal with a view of the Sumida River (reservations recommended).
+*   **Potential Alternatives (Asakusa):**
+    *   **Chanko Nabe:** Chanko & Wanko Restaurant Asakusa Sumo Club (4.9 rating).
+    *   **Taiyaki:** Naruto Taiyaki Asakusa (4.5 rating, takeaway).
 
 ---
 
@@ -128,6 +148,8 @@ This itinerary has been updated to vary the supper options and confirms that you
     *   **Shabu Shabu:** **Nabezo Shibuya Koendori (4.4 rating)**.
 *   **Supper (Optional):**
     *   Explore the trendy bars and late-night cafes in Ebisu.
+*   **Potential Alternatives (Setagaya):**
+    *   **Parfait:** Patisserie Asako Iwayanagi (4.3 rating, no infants).
 
 ---
 
@@ -147,6 +169,11 @@ This itinerary has been updated to vary the supper options and confirms that you
 *   **Supper (Optional):**
     *   **Ramen:** **Ramen Nagi** (open 24/7) in Golden Gai or **Ramen Tatsunoya**.
     *   **Snack:** **Gindaco Highball Sakaba** for late-night takoyaki.
+*   **Potential Alternatives (Shinjuku):**
+    *   **Shabu Shabu:** MO-MO-PARADISE Kabukicho (4.4 rating).
+    *   **Parfait:** Shinjuku Takano Fruit Parlour (4.1 rating), Parfaiteria Bel (4.3 rating, no infants).
+    *   **Matcha Parfait:** Kyo Hayashiya (4.2 rating), Ochobohan (4.0 rating).
+    *   **Cakes:** HARBS (4.2 rating).
 
 ---
 
@@ -155,3 +182,5 @@ This itinerary has been updated to vary the supper options and confirms that you
 *   **Morning:** Last-minute souvenir shopping at **Tokyo Station Character Street**.
 *   **Lunch:** Enjoy a final meal at Tokyo Station's **Ramen Street** or grab a bento box.
 *   **Afternoon:** Head to Narita International Airport (NRT) for your 7:00 PM flight (SQ11).
+*   **Potential Alternatives (Tokyo Station):**
+    *   **Tea House/Parfaits:** Saryo Tsujiri Daimaru (4.5 rating).
