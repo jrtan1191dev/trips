@@ -22,6 +22,13 @@ This itinerary has been updated to vary the supper options and confirms that you
         *   **Decks Tokyo Beach:** Explore the **Daiba 1-Chome Shotengai (4.3 rating)**, a retro shopping street that recreates the atmosphere of 1960s Tokyo, complete with nostalgic snacks and games.
 *   **Dinner: Odaiba**
     *   Enjoy a relaxing dinner with stunning waterfront views at **bills Odaiba (4.1 rating)**, a popular Australian restaurant known for its airy ambiance and famous ricotta pancakes (they also serve a full dinner menu). It's spacious and a good option with an infant.
+    *   **Japanese Alternatives:**
+        *   **Sushizanmai Tsukijiekimae-Ten (Sushi):** Located in Tsukiji, a short trip from Odaiba. Famous 24-hour sushi restaurant.
+        *   **Rokkasen (Yakiniku):** Located in Shinjuku. Highly-rated all-you-can-eat Japanese BBQ.
+        *   **MO-MO-PARADISE Kabukicho (Sukiyaki/Shabu Shabu):** Located in Shinjuku. All-you-can-eat hot pot.
+        *   **Tokyo Shiba Tofuya Ukai (Kaiseki):** Located in Shiba, near Tokyo Tower. Traditional multi-course meal in a beautiful garden setting.
+        *   **Tempura Kondo (Tempura):** Located in Ginza. Top-ranked tempura restaurant on Tabelog.
+        *   **Tonkatsu Suzuki (Tonkatsu):** Located in Tokyo Station. Highly-rated for its juicy pork cutlets.
 *   **Supper:**
     *   If you're feeling peckish after returning to the hotel, you have a couple of convenient options right nearby:
         *   **Kitchen Origin Shiomi:** A local bento shop for a simple, takeaway meal.
