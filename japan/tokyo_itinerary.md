@@ -98,10 +98,12 @@ This itinerary has been updated to vary the supper options and confirms that you
 
 *   **Focus:** Traditional Tokyo & Modern Views.
 *   **Morning: Asakusa**
-    *   **Scenery:** Visit **Senso-ji Temple (4.5 rating)** and the nearby **Imado Shrine (4.2 rating)**.
+    *   **Breakfast/Pancakes:** Head to **Benitsuru (4.5 rating)** early (7-8 AM) to get a timed ticket for their famous soufflé pancakes.
+    *   **Scenery:** After securing your ticket, visit **Senso-ji Temple (4.5 rating)** and the nearby **Imado Shrine (4.2 rating)**.
     *   **Shopping:** Explore **Nakamise-dori Street**.
 *   **Lunch: Asakusa**
-    *   **Sukiyaki:** **Asakusa Imahan Kokusai Dori Honten (4.4 rating)**.
+    *   Return to **Benitsuru** for your reserved pancake slot.
+    *   **Alternatively/Additionally:** **Asakusa Imahan Kokusai Dori Honten (4.4 rating)** for Sukiyaki.
 *   **Afternoon: Asakusa**
     *   **Cafe:** **Pignic Cafe Asakusa (5.0 rating)** (reservation essential).
 *   **Evening: Sumida**
@@ -136,13 +138,14 @@ This itinerary has been updated to vary the supper options and confirms that you
     *   **Scenery:** Explore **Shinjuku Gyoen National Garden (4.6 rating)**.
 *   **Lunch: Shinjuku**
     *   **Sushi:** **SUSHI-YAMA Shinjuku (4.9 rating)**.
+    *   **Ramen:** **Ramen Tatsunoya (4.5 rating)**
 *   **Afternoon: Shinjuku Views & Shopping**
     *   **Scenery:** **Tokyo Metropolitan Government Building (4.6 rating)** for free panoramic views.
     *   **Shopping:** Explore **Isetan, Lumine, and Takashimaya**.
 *   **Dinner: Shinjuku**
     *   **Yakiniku:** **Rokkasen (4.5 rating)** (reservations highly recommended).
 *   **Supper (Optional):**
-    *   **Ramen:** **Ramen Nagi** (open 24/7) in Golden Gai.
+    *   **Ramen:** **Ramen Nagi** (open 24/7) in Golden Gai or **Ramen Tatsunoya**.
     *   **Snack:** **Gindaco Highball Sakaba** for late-night takoyaki.
 
 ---

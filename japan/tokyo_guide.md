@@ -26,6 +26,7 @@
 | Ramen | Fuunji | Shibuya | 4.3 | 4,000+ | No | https://www.google.com/maps/search/?api=1&query=Fuunji+Shibuya | Weekdays, outside peak hours (e.g., 11 AM, 2-3 PM, 5-6 PM), or during inclement weather. Closed Sundays/holidays. |
 | Ramen | Ichiran (Shibuya) | Shibuya | 4.5 | 2,260+ | Yes | https://www.google.com/maps/search/?api=1&query=Ichiran+Shibuya | Early morning (6-9 AM) or late night (12-2 AM) to avoid crowds. Late afternoon (4 PM) also good. |
 | Ramen | Ramen Nagi | Shinjuku | 4.2 | 1,500+ | Yes | https://goo.gl/maps/LLbg38Sku1qqyFRE6 | Open 24/7. Least busy 7-10 AM. Popular for late-night. |
+| Ramen | Ramen Tatsunoya | Shinjuku | 4.5 | 1,000+ | No | https://www.google.com/maps/search/?api=1&query=Ramen+Tatsunoya+Shinjuku | Outside peak lunch/dinner hours. |
 | Sushi | Uobei Shibuya Dogenzaka | Shibuya | 4.2 | 1,000+ | No | https://www.google.com/maps/search/?api=1&query=Uobei+Shibuya+Dogenzaka | Outside peak lunch/dinner hours, or later in the evening. |
 | Sushi | Sushizanmai Tsukijiekimae-Ten | Tsukiji | 4.4 | 956+ | Yes | https://www.google.com/maps/search/?api=1&query=%E3%81%99%E3%81%97%E3%81%BE%E3%81%84+%E7%AF%89%E5%9C%B0%E9%A7%85%E5%89%8D%E5%BA%97 | Open 24 hours. Early morning or late night to avoid long lines. |
 | Donburi | Tsujihan (Nihonbashi) | Nihonbashi | 4.4 | 3,400+ | No | https://www.google.com/maps/search/?api=1&query=Tsujihan+Nihonbashi | Arrive 15-30 mins before 11 AM opening, or after 2 PM. |
@@ -68,6 +69,7 @@
 | Cafe | Pignic Cafe Asakusa | Asakusa | 5.0 | 40 | Yes | https://www.google.com/maps/search/?api=1&query=Pignic+Cafe+Asakusa | Reservation essential; weekdays for less crowds. |
 | Cream Puffs | Shiro-Hige's Cream Puff Factory Daita | Daita | 4.5 | 756 (Tabelog) | Yes (takeaway recommended with infants) | https://www.google.com/maps/search/?api=1&query=Shiro-Hige's+Cream+Puff+Factory+Daita | Weekdays, early morning (near 10:30 AM opening) for best selection and to avoid crowds. |
 | Pancakes | Shiawase no Pancake (A Happy Pancake) | Various | 4.2 | 429 (Tabelog) | Yes | https://www.google.com/maps/search/?api=1&query=Shiawase+no+Pancake+Tokyo | Reserve in advance or visit right before opening; weekdays for less crowds. |
+| Pancakes | Benitsuru | Asakusa | 4.5 | 1000+ | No | https://www.google.com/maps/search/?api=1&query=Benitsuru+Pancake+Asakusa | Go early (7-8am) to get a timeslot for later in the day. |
 | Matcha Gelato | Nanaya Aoyama | Aoyama | 4.5 | 652 | Yes | https://www.google.com/maps/search/?api=1&query=Nanaya+Aoyama | Weekdays, shortly after opening (11:00 AM) or during off-peak hours to avoid crowds. Closed Tuesdays. |
 | Tea House/Parfaits | Saryo Tsujiri Daimaru | Tokyo Station | 4.5 | 1,254 (Tabelog) | Yes | https://www.google.com/maps/search/?api=1&query=Saryo+Tsujiri+Daimaru | Daily, 10:00 AM - 8:00 PM (last order 7:30 PM); visit during off-peak hours to avoid queues. |
 | Fruit Parfaits | Sembikiya | Ginza | 4.5 | 1,038 (Tabelog) | Yes | https://www.google.com/maps/search/?api=1&query=Sembikiya+Ginza | Daily (Mon-Sat 11:00 AM-8:00 PM, Sun/Holidays 11:00 AM-7:00 PM); visit earlier in the day for popular items. |
