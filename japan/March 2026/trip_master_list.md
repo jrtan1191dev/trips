@@ -115,6 +115,21 @@ These meet strict criteria for ratings (Google Maps 4.5+/>1000 reviews OR Tabelo
 | **Kanda Matsuya** | Kanda | 4.3 | 3.75 | Yes (Historic Soba) | [Map Location](https://www.google.com/maps/search/?api=1&query=Kanda%20Matsuya%20Kanda%20Tokyo) | Lunch |
 | **Ichiran** 🔥 | Various | 4.4 | 3.45 | **Difficult** (Individual booths only!)| Search nearest | Off-peak |
 
+#### 8. Unagi (Grilled Eel)
+
+| Name | Area | Rating (Google) | Rating (Tabelog) | Are infants accepted? | Google Map Link | Best Time |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **Unatoto Asakusa** | Asakusa | 4.3 | 3.45 | **Yes** (Affordable, casual, fast) | [Map Location](https://www.google.com/maps/search/?api=1&query=Unatoto%20Asakusa%20Tokyo) | Lunch/Dinner |
+| **Edomae Unagi Kamameshi Edosada** | Asakusa | 4.2 | 3.48 | **Highly Yes** (Private tatami rooms) | [Map Location](https://www.google.com/maps/search/?api=1&query=Edomae%20Unagi%20Kamameshi%20Edosada%20Asakusa) | Lunch/Dinner |
+| **Ishibashi** | Bunkyo | 4.4 | 3.95 | **Yes** (Historic, private rooms) | [Map Location](https://www.google.com/maps/search/?api=1&query=Ishibashi%20Unagi%20Tokyo) | Dinner |
+| **Nodaya** | Iriya | 4.5 | 3.85 | Yes (Very famous, reservations needed) | [Map Location](https://www.google.com/maps/search/?api=1&query=Nodaya%20Unagi%20Tokyo) | Dinner |
+| **Unagi Komagata Maekawa** | Asakusa | 4.3 | 3.75 | Yes (River views, historic) | [Map Location](https://www.google.com/maps/search/?api=1&query=Unagi%20Komagata%20Maekawa%20Asakusa%20Tokyo) | Lunch/Dinner |
+| **Uomasa** | Katsushika | 4.5 | 4.15 | **Difficult** (High end, long wait) | [Map Location](https://www.google.com/maps/search/?api=1&query=Uomasa%20Unagi%20Tokyo) | Dinner |
+| **Maruya Honten** | Ginza / Midtown | 4.3 | 3.65 | **Yes** (Mall location, spacious) | [Map Location](https://www.google.com/maps/search/?api=1&query=Maruya%20Honten%20Tokyo) | Lunch/Dinner |
+| **Unagi Hashimoto** | Edogawa | 4.4 | 3.85 | Yes (Michelin star, historic) | [Map Location](https://www.google.com/maps/search/?api=1&query=Unagi%20Hashimoto%20Tokyo) | Lunch/Dinner |
+| **Mejiro Zorome** | Mejiro | 4.4 | 3.75 | Yes (Michelin listed) | [Map Location](https://www.google.com/maps/search/?api=1&query=Mejiro%20Zorome%20Tokyo) | Lunch/Dinner |
+| **Kiri** | Sendagi | 4.2 | 3.55 | **Yes** (Children welcome, private cabins) | [Map Location](https://www.google.com/maps/search/?api=1&query=Kiri%20Unagi%20Tokyo) | Lunch/Dinner |
+
 ---
 
 ### ☕ Cafes & 🍰 Desserts (10 Top Spots)
@@ -171,9 +186,20 @@ These meet strict criteria for ratings (Google Maps 4.5+/>1000 reviews OR Tabelo
 
 ---
 
-### 🎡 Sightseeing Attractions & Scenery (Top 30 Spots)
+### 🎡 Sightseeing Attractions & Scenery
 
 *With a stroller and 6 adults, outdoor spaces and major aquariums/museums are your best bet. Avoid tiny historical alleyways (like Omoide Yokocho/Golden Gai) which cannot fit strollers.*
+
+#### 🌸 Top Sakura (Cherry Blossom) Viewing Spots
+
+* **Shinjuku Gyoen National Garden** (Shinjuku) - Massive, pristine park. Perfect for strollers and one of Tokyo's most famous sakura spots. [Map Location](https://www.google.com/maps/search/?api=1&query=Shinjuku%20Gyoen%20National%20Garden%20Tokyo)
+* **Yoyogi Park** (Harajuku) - Huge open park, extremely family friendly with wide paths and many cherry trees. [Map Location](https://www.google.com/maps/search/?api=1&query=Yoyogi%20Park%20Tokyo)
+* **Meguro River** (Nakameguro) - Beautiful tree-lined walking paths, arguably Tokyo's most famous and aesthetic cherry blossom night illumination spot. [Map Location](https://www.google.com/maps/search/?api=1&query=Meguro%20River%20Tokyo)
+* **Hana Biyori** (Inagi) - Entertainment botanical garden next to Yomiuriland with indoor flower chandeliers, Starbucks, and digital art mapping. Very unique sakura viewing! [Map Location](https://www.google.com/maps/search/?api=1&query=Hana%20Biyori%20Tokyo)
+* **Matsudayama Herb Garden / Nishihirabatake Park** (Matsuda - Day Trip) - Famous for its Matsuda Cherry Blossom Festival featuring stunning early-blooming Kawazu Sakura on the mountain slope with Mt. Fuji views! [Map Location](https://www.google.com/maps/search/?api=1&query=Nishihirabatake%20Park%20Matsuda)
+* **Ueno Park** (Ueno) - One of Japan's most crowded, famous, and lively spots for cherry blossom viewing parties (hanami). Features a massive central pathway lined with over 1,000 cherry trees! [Map Location](https://www.google.com/maps/search/?api=1&query=Ueno%20Park%20Tokyo)
+
+#### 🏙️ General Attractions & Parks
 
 1. **Shinjuku Gyoen National Garden** (Shinjuku) - Massive, pristine park. Perfect for strollers.
 2. **TeamLab Planets** (Toyosu) - Incredible visual art (*Note: Must carry infant through knee-deep water*).

@@ -9,17 +9,19 @@
 
 * **Hotel 1:** HOTEL GROOVE SHINJUKU, A PARKROYAL Hotel
 * **Address:** 東急歌舞伎町タワ, 1 Chome-29-1 Kabukicho, Shinjuku City, Tokyo 160-0021, Japan
+* **Period:** March 18 - March 20
 * **Google Maps Link:** [HOTEL GROOVE SHINJUKU, A PARKROYAL Hotel](https://maps.app.goo.gl/k7dTH5DmhT2m74Js5)
 
 * **Hotel 2:** Far East Village Hotel Tokyo, Asakusa
 * **Address:** 1 Chome-11-6 Asakusa, Taito City, Tokyo 111-0032, Japan
+* **Period:** March 20 - March 24
 * **Google Maps Link:** [Far East Village Hotel Tokyo, Asakusa](https://maps.app.goo.gl/9JXnyqhy9uum4tcA6)
 
 ## Transportation & Logistics (Crucial for Large Groups & Infant)
 
 * **Airport Transfers:**
-  * **NRT to Shinjuku:** Recommend Airport Limousine Bus (direct to major Shinjuku hotels) or booking a Private Jumbo Taxi/Chartered Van for the group + stroller + luggage. Avoid the commuter trains.
-  * **Asakusa to NRT:** Keisei Skyliner from Keisei Ueno Station is the fastest route back.
+  * **NRT to Shinjuku:** Klook booking to hotel transfer (8:40am)
+  * **Asakusa to NRT:** Klook booking from hotel to NRT (1:30pm)
 * **Moving Between Hotels:** Use **Yamato Transport (Ta-Q-Bin)** to forward your large suitcases from Shinjuku to Asakusa. Pack an overnight bag for the transfer day. This avoids dragging 6+ suitcases and a stroller through crowded subways.
 * **Station Accessibility:** Factor in extra travel time to find elevators (often at the far ends of platforms and require multiple transfers).
 * **Connectivity:** Ensure everyone has their own eSIM (like Ubigi or Airalo) instead of sharing one Pocket Wi-Fi, as the group of 6 will inevitably need to split up at times.
