@@ -7,7 +7,7 @@
 
 ## 🛬 Day 1: Arrival & Shinjuku Landing (Wed, Mar 18)
 
-**Cuisine Focus:** Cafe Food / Omurice & Premium Hotpot
+**Cuisine Focus:** Cafe Food / Omurice & Tonkatsu
 **Shopping Focus:** Late-night essentials
 **Scenery Focus:** Early Sakura (Cherry Blossoms)
 
@@ -18,7 +18,7 @@
 * **12:00 PM - Lunch [Omurice / Cafe]:** Eat at **EDW Yellow Shibuya**. A highly popular cafe famous for its fluffy omurice and pancakes. 
 * **02:00 PM - Scenery:** Take the Fukutoshin subway line directly back to Shinjuku-sanchome station. Walk to **Shinjuku Gyoen National Garden**. It is massive, perfectly flat for strollers, and one of the absolute best spots for early/mid-March Sakura.
 * **04:30 PM - Hotel Check-in:** Return to Hotel Groove to freshen up.
-* **06:30 PM - Dinner [Sukiyaki / Shabu Shabu]:** **Nabezo Shinjuku Sanchome**. Fantastic, spacious booth seating for the group to enjoy high-quality all-you-can-eat Japanese hotpot.
+* **06:30 PM - Dinner [Tonkatsu]:** **Katsukura Shinjuku Takashimaya**. Excellent Kyoto-style tonkatsu located in a spacious department store setting, making it very accommodating for strollers and larger groups.
 * **08:30 PM - Shopping [Essentials]:** **Don Quijote (Kabukicho Store)**. Very close to your hotel. Visit now before the late-night crowds hit.
 * **10:30 PM - Supper [Ramen]:** **Ichiran Kabukicho**. *Note: 6 adults cannot sit together here. Split into groups of 3 and take turns while the other group watches the infant at the hotel.*
 
@@ -65,14 +65,14 @@
 
 ## 🏮 Day 5: Traditional Asakusa (Sun, Mar 22)
 
-**Cuisine Focus:** Soba Noodles & (2nd) Conveyor Belt Sushi
+**Cuisine Focus:** Premium Sukiyaki & (2nd) Conveyor Belt Sushi
 **Dessert Focus:** Viral Pancakes & Intense Matcha Gelato
 **Scenery Focus:** Historic Temples & Shrines
 
 * **07:30 AM - Scenery:** Go early! The **Nakamise shopping street** and **Senso-ji Temple** get impossibly crowded by 10 AM, making strollers very difficult.
 * **08:00 AM - Dessert [Viral Pancakes]:** While the group explores Senso-ji, send one adult to queue at **Benitsuru** (just blocks away) to secure a time-slot ticket for their famous fluffy pancakes for later in the morning/afternoon.
 * **09:30 AM - Scenery:** Walk to **Imado Shrine** (the "Must Visit" beckoning cat shrine). It's a peaceful 15-minute walk from the main Asakusa area.
-* **11:30 AM - Lunch [Soba]:** **Namiki Yabusoba**. Famous, historic soba shop. Fast turnover makes it easier for groups.
+* **11:30 AM - Lunch [Sukiyaki]:** **Asakusa Imahan (Kokusai Dori Honten)**. Legendary restaurant specializing in premium wagyu beef sukiyaki. Getting a private room here will be perfect for a group with a baby.
 * **01:30 PM - Dessert [Richest Matcha Gelato]:** **Suzukien Asakusa**. Grab the world famous 7-tier matcha gelato. Expect a line, but the queue moves fast since there is no seating.
 * **03:00 PM - Shopping [Souvenirs & Crafts]:** Explore the surrounding Asakusa streets or head back to the hotel for an infant nap.
 * **06:00 PM - Dinner [(2nd) Kaiten Sushi]:** **Kura Sushi Asakusa ROX**. This is the global flagship store. It is massive, highly entertaining, and features huge booths perfect for your group.
